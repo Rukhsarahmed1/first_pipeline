@@ -1,4 +1,6 @@
 Medical Cost Insurance - Using {targets} and {renv}
+
+
 As prerequisites to run this Medical cost insurance producing {targets} are the following:
 
 1) Having *git* installed;
@@ -19,6 +21,12 @@ In order to produce the plot, you will net to do the following: open Rstudio the
 
 
 targets::tar_make().
+
+
+
+Below is  the link of RAP package from where you get idea for creating,testing and documenting the function 
+
+https://github.com/Rukhsarahmed1/RAP
 
 
 If any issues come up, let me know via email on the adresse: rukhsar.ahmed.002@student.uni.lu.
