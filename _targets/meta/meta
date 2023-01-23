@@ -1,7 +1,7 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 get_data|function|f3107711dcdd36a9|||||||||||||||
-insurance|stem|3c395d9b9ef2a54b|f0c78c8250679058|e67550ee0dbf8127|-1421169708||t19379.8953446279s|cbd3ff5d56cae6df|17675|rds|local|vector|||0||
-insurance_plot|stem|2d2580482947b906|53d60433f55183ba|9c62b6a2123fe9dc|1495783200||t19379.9104449203s|823daee9dade4214|78307|rds|local|vector|||0.04||
-insurance_saved_plot|stem|5a468d896390f3cc|a196dbe1b5b5e4bb|9a8b8b7c1feb70bc|448276029|output/insurance.png|t19379.917351372s|c8988ca018c8683c|233389|file|local|vector|||2.86||
+insurance|stem|3c395d9b9ef2a54b|f0c78c8250679058|e67550ee0dbf8127|-1421169708||t19380.076617689s|cbd3ff5d56cae6df|17675|rds|local|vector|||0.02||
+insurance_plot|stem|2d2580482947b906|53d60433f55183ba|9c62b6a2123fe9dc|1495783200||t19380.0821779894s|823daee9dade4214|78307|rds|local|vector|||0.06||
+insurance_saved_plot|stem|e05e55a40ef8912e|954580bbd5b16976|955983b4bf3be923|448276029|output/insurance.pdf|t19380.0821917448s|f87891563c44adaf|76162|file|local|vector|||1.13||
 make_plot|function|1833505f51ca21e3|||||||||||||||
-save_plot|function|018760166715daa7|||||||||||||||
+save_plot|function|826f2251be9e9c8f|||||||||||||||

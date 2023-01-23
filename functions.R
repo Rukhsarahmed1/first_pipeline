@@ -12,6 +12,6 @@ make_plot <- function(insurance){
 }
 
 save_plot <- function(save_path, plot){
-  ggsave(save_path, plot)
+  ggsave(save_path, plot,width = 7, height = 5, dpi = 300)
   save_path
 }

@@ -14,7 +14,7 @@ list(
   
   tar_target(
     insurance_saved_plot,
-    save_plot("output/insurance.png", insurance_plot),
+    save_plot("output/insurance.pdf", insurance_plot),
     format = "file"
   )
   
