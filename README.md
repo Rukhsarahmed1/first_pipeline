@@ -18,11 +18,13 @@ In order to produce the plot, you will net to do the following: open Rstudio the
 
 4) FYou should now restart your R session for good measure (go to Session -> Restart Session).
 
-5)You can now run the pipeline simply with:
+  5)You can now run the pipeline simply with:
 
 
 targets::tar_make().
-6) This will give you a graph created in the output folder 
+
+
+ 6) This will give you a graph created in the output folder 
 
 
 
