@@ -22,6 +22,7 @@ In order to produce the plot, you will net to do the following: open Rstudio the
 
 
 targets::tar_make().
+6) This will give you a graph created in the output folder 
 
 
 
